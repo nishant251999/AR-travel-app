@@ -1,0 +1,123 @@
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\nunit.framework.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEditor.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEditor.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\nunit.framework.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\goyal\Documents\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\goyal\Documents\monument\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\goyal\Documents\monument\obj\Debug\Assembly-CSharp.dll
+C:\Users\goyal\Documents\monument\obj\Debug\Assembly-CSharp.pdb
+E:\monument\Temp\bin\Debug\Assembly-CSharp.dll
+E:\monument\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\monument\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\monument\Temp\bin\Debug\nunit.framework.dll
+E:\monument\Temp\bin\Debug\UnityEditor.dll
+E:\monument\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\monument\Temp\bin\Debug\UnityEngine.dll
+E:\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\monument\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\monument\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\monument\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\monument\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\monument\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\monument\Temp\bin\Debug\UnityEngine.UI.dll
+E:\monument\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\monument\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\monument\Temp\bin\Debug\Unity.Cecil.dll
+E:\monument\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\monument\Temp\bin\Debug\ExCSS.Unity.dll
+E:\monument\Temp\bin\Debug\Unity.DataContract.dll
+E:\monument\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\monument\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\monument\Temp\bin\Debug\Unity.CecilTools.dll
+E:\monument\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\monument\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\monument\Temp\bin\Debug\UnityEngine.xml
+E:\monument\Temp\bin\Debug\UnityEditor.xml
+E:\monument\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\monument\Temp\bin\Debug\UnityEngine.UI.xml
+E:\monument\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\monument\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\monument\Temp\bin\Debug\nunit.framework.xml
+E:\monument\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\monument\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\monument\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\monument\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\monument\obj\Debug\Assembly-CSharp.dll
+E:\monument\obj\Debug\Assembly-CSharp.pdb
+C:\Users\NISHANT JAIN\Documents\Unity\monument\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\NISHANT JAIN\Documents\Unity\monument\obj\Debug\Assembly-CSharp.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\obj\Debug\Assembly-CSharp.pdb
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\nunit.framework.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEditor.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEditor.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\nunit.framework.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\NISHANT JAIN\Documents\Unity\monument\Temp\bin\Debug\UnityEngine.SpatialTracking.xml

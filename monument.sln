@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monument", "Assembly-CSharp.csproj", "{149BE69B-8919-3E49-6821-60B26B23057D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monument", "Assembly-CSharp-Editor.csproj", "{FB7AE573-ABA8-7700-3A08-E06B5ED54320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149BE69B-8919-3E49-6821-60B26B23057D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149BE69B-8919-3E49-6821-60B26B23057D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149BE69B-8919-3E49-6821-60B26B23057D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149BE69B-8919-3E49-6821-60B26B23057D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7AE573-ABA8-7700-3A08-E06B5ED54320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7AE573-ABA8-7700-3A08-E06B5ED54320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7AE573-ABA8-7700-3A08-E06B5ED54320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7AE573-ABA8-7700-3A08-E06B5ED54320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
